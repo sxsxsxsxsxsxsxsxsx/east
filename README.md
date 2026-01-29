@@ -1,3 +1,3 @@
 # east
-east multi-tools - inspired from red-tiger                                                                                                                                                                               
-made by npxsez aka sxsxsxsxsxsxsxsxsx
+new multi-tools . inspired from redtiger                                                                                                                                                                                
+made by npxsez
